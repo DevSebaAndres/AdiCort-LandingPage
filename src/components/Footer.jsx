@@ -106,7 +106,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="fade-in">
             <div className="flex items-center gap-3 mb-4">
-              <img src="/images/logo.png" alt="Adicort" className="h-8 w-8 object-contain" />
+              <img src="images/logo.png" alt="Adicort" className="h-8 w-8 object-contain" />
               <span
                 className="text-white font-bold text-lg tracking-widest"
                 style={{ fontFamily: 'Outfit, sans-serif' }}

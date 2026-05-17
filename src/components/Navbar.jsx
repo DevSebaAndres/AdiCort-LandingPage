@@ -27,7 +27,7 @@ export default function Navbar() {
         {/* Logo */}
         <a href="#" className="flex items-center gap-3 group" aria-label="Adicort inicio">
           <img
-            src="/images/logo.png"
+            src="images/logo.png"
             alt="Adicort logo"
             className="h-9 w-9 object-contain transition-transform duration-300 group-hover:scale-105"
           />

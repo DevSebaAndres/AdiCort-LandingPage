@@ -3,7 +3,7 @@ export default function Hero() {
     <section id="inicio" className="hero-section">
       {/* Background image */}
       <img
-        src="/images/hero.png"
+        src="images/hero.png"
         alt="Cortina metálica de seguridad Adicort en fachada comercial al atardecer"
         className="absolute inset-0 w-full h-full object-cover object-center"
         loading="eager"

@@ -3,7 +3,7 @@ import { useState, useRef, useEffect, useCallback } from 'react'
 const slides = [
   {
     id: 1,
-    image: '/images/caso1.png',
+    image: 'images/caso1.png',
     tag: 'Sector Retail',
     title: 'Boutique Comercial Premium',
     description:
@@ -13,7 +13,7 @@ const slides = [
   },
   {
     id: 2,
-    image: '/images/caso2.png',
+    image: 'images/caso2.png',
     tag: 'Sector Industrial',
     title: 'Nave Logística de Gran Escala',
     description:
@@ -23,7 +23,7 @@ const slides = [
   },
   {
     id: 3,
-    image: '/images/caso3.png',
+    image: 'images/caso3.png',
     tag: 'Sector Gastronómico',
     title: 'Restaurante en Zona Comercial',
     description:
