@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devsebaandres.github.io/AdiCort-LandingPage/sitemap.xml
