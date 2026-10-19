@@ -4,7 +4,7 @@ export default function Hero() {
       {/* Background image */}
       <img
         src="images/hero.png"
-        alt="Cortina metálica de seguridad Adicort en fachada comercial al atardecer"
+        alt="Cortina metálica de seguridad SecureStore en fachada comercial al atardecer"
         className="absolute inset-0 w-full h-full object-cover object-center"
         loading="eager"
         fetchPriority="high"
@@ -55,7 +55,7 @@ export default function Hero() {
               animation: 'fadeUp 0.9s ease 0.4s forwards',
             }}
           >
-            Adicort: Blindamos la{' '}
+            SecureStore: Blindamos la{' '}
             <span
               style={{
                 background: 'linear-gradient(135deg, #c49a6c, #A67C52)',

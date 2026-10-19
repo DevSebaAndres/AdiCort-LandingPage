@@ -25,17 +25,17 @@ export default function Navbar() {
     <nav ref={navRef} className="navbar py-5 px-6 md:px-12">
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         {/* Logo */}
-        <a href="#" className="flex items-center gap-3 group" aria-label="Adicort inicio">
+        <a href="#" className="flex items-center gap-3 group" aria-label="SecureStore inicio">
           <img
             src="images/logo.png"
-            alt="Adicort logo"
+            alt="SecureStore logo"
             className="h-9 w-9 object-contain transition-transform duration-300 group-hover:scale-105"
           />
           <span
             style={{ fontFamily: 'Outfit, sans-serif' }}
             className="text-white font-bold text-xl tracking-widest uppercase"
           >
-            ADICORT
+            SecureStore
           </span>
         </a>
 

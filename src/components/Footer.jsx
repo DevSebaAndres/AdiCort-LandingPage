@@ -106,12 +106,12 @@ export default function Footer() {
           {/* Brand */}
           <div className="fade-in">
             <div className="flex items-center gap-3 mb-4">
-              <img src="images/logo.png" alt="Adicort" className="h-8 w-8 object-contain" />
+              <img src="images/logo.png" alt="SecureStore" className="h-8 w-8 object-contain" />
               <span
-                className="text-white font-bold text-lg tracking-widest"
+                className="text-white font-bold text-lg tracking-widest uppercase"
                 style={{ fontFamily: 'Outfit, sans-serif' }}
               >
-                ADICORT
+                SecureStore
               </span>
             </div>
             <p className="text-white/45 text-sm leading-relaxed mb-6 max-w-xs">
@@ -149,8 +149,8 @@ export default function Footer() {
                   <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
                   <polyline points="22,6 12,13 2,6" />
                 </svg>
-                <a href="mailto:contacto@adicort.com.ar" className="footer-link">
-                  contacto@adicort.com.ar
+                <a href="mailto:contacto@securestore.com.ar" className="footer-link">
+                  contacto@securestore.com.ar
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -206,7 +206,7 @@ export default function Footer() {
           style={{ borderTop: '1px solid rgba(255,255,255,0.07)' }}
         >
           <p className="text-white/25 text-xs">
-            © {new Date().getFullYear()} Adicort — Todos los derechos reservados.
+            © {new Date().getFullYear()} SecureStore — Todos los derechos reservados.
           </p>
           <p className="text-white/20 text-xs">
             Soluciones de Seguridad Perimetral · Tucumán, Argentina
